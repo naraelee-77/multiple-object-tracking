@@ -1,0 +1,10 @@
+ball
+bicycle
+drunk
+fish1
+hand1
+polarbear
+sphere
+sunshade
+surfing
+torus
