@@ -1,33 +1,14 @@
-# ADNet-cvpr2017
+# ADNet-multiple-object-tracking
 
-- ADNet: Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning [[Paper]](https://drive.google.com/open?id=0B34VXh5mZ22cZUs2Umc1cjlBMFU)
-- [[Project Page]](https://sites.google.com/view/cvpr2017-adnet) 
-- Contact: yunsd101@snu.ac.kr [[Homepage]](https://sites.google.com/view/sdyunhome/)
+- Code modified from ADNet-cvpr2017: Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning [[Repository]](https://github.com/hellbell/ADNet)
+- In this project we move away from the single object tracking of the original ADNet paper to multiple object tracking
 
-### Other implementations
-Tensorflow: (tf-adnet) https://github.com/ildoonet/tf-adnet-tracking 
+### Participation in REU
+This was a project worked on during the Research Experience for Undergraduates (REU) program at the University of Central Florida's Center of Research for Computer Vision (UCF CRCV) in Summer 2018. [[Link to Page]](http://crcv.ucf.edu/REU/2018/narae)
 
-### News
-- Major bug fixes (31 Mar. 2018).
-- Training codes are uploaded (4 Sep, 2017).
-- Test codes are uploaded (15 July, 2017).
+### Paper
+Here is the final version of the paper written for the project [[Paper]](https://drive.google.com/file/d/1D0qkf4voPLldTG2PBcHFiAGDAtxWEL27/view?usp=sharing)
 
-### Citation
-```
-  @InProceedings{yun2017adnet,
-  title={Action-Decision Networks for Visual Tracking with Deep Reinforcement Learning},
-  author={Yun, Sangdoo and Choi, Jongwon and Yoo, Youngjoon and Yun, Kimin and Young Choi, Jin},
-  booktitle={The IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},  
-  year={2017}
-  }
-```
-  
-### Installation  
-- This code is tested on Linux os (ubuntu 14.04) 64bit, MATLAB 2017a, and Cuda-8.0 with NVIDIA GTX 1080 TI.
-- Run `adnet_compile.m` to compile MatConvNet.
-
-### Run tracking
-- Run `adnet_demo.m`.
 
 
 
