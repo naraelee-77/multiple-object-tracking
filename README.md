@@ -1,6 +1,6 @@
 # Multiple Object Tracking
 
-- In this project we use deep reinforcement learning for multiple object tracking
+- In this project we use deep reinforcement learning for multiple object tracking in UAV/pedestrian video datasets
 
 ### Paper
 Final version of the paper written for the project [[Paper]](https://drive.google.com/file/d/1D0qkf4voPLldTG2PBcHFiAGDAtxWEL27/view?usp=sharing)
